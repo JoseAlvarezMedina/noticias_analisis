@@ -1,0 +1,13 @@
+numpy==2.2.5
+pandas
+matplotlib
+seaborn
+scikit-learn
+gensim
+spacy
+bertopic
+streamlit
+beautifulsoup4
+textstat
+tldextract
+joblib
